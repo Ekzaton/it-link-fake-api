@@ -1,4 +1,5 @@
-[
+{
+    "items": [
     {
         "id": 134,
         "images": ["615edbad4c35b.png", "615edbad4c35c.png", "615edbad4c35d.png"],
@@ -27,3 +28,6 @@
         ]
     }
 ]
+}
+
+
