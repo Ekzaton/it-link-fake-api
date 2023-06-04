@@ -11,7 +11,7 @@
                 "brand": "Volvo",
                 "model": "XC70",
                 "production_year": 2007,
-                "body": " универсал",
+                "body": "универсал",
                 "mileage": 200000
             },
             "options": [
@@ -29,52 +29,52 @@
         {
             "id": 2,
             "images": ["615edbad4c35b.png", "615edbad4c35c.png", "615edbad4c35d.png"],
-            "name": "Volvo XC70, 2007",
+            "name": "Honda Accord, 2008",
             "description": "1973 года выпуска, в отличном состоянии. Пробег 200000 км.",
-            "price": 1500000,
-            "contacts": "seller@mail.ru",
+            "price": 800000,
+            "contacts": "vasya@mail.ru",
             "technical_characteristics": {
-                "brand": "Volvo",
-                "model": "XC70",
-                "production_year": 2007,
-                "body": "body",
-                "mileage": 200000
+                "brand": "Honda",
+                "model": "Accord",
+                "production_year": 2008,
+                "body": "седан",
+                "mileage": 269500
             },
             "options": [
                 {
-                    "option_name": "Климат-контроль"
+                    "option_name": "Кондиционер"
                 },
                 {
-                    "option_name": "Кожаный руль"
+                    "option_name": "Система стабилизации (ESP)"
                 },
                 {
-                    "option_name": "Центральный замок"
+                    "option_name": "Электрообогрев боковых зеркал"
                 }
             ]
         },
         {
             "id": 3,
             "images": ["615edbad4c35b.png", "615edbad4c35c.png", "615edbad4c35d.png"],
-            "name": "Volvo XC70, 2007",
+            "name": "Opel Corsa, 2007",
             "description": "1973 года выпуска, в отличном состоянии. Пробег 200000 км.",
-            "price": 1500000,
-            "contacts": "seller@mail.ru",
+            "price": 500000,
+            "contacts": "john@mail.ru",
             "technical_characteristics": {
-                "brand": "Volvo",
-                "model": "XC70",
+                "brand": "Opel",
+                "model": "Corsa",
                 "production_year": 2007,
-                "body": "body",
-                "mileage": 200000
+                "body": "хэтчбек 5 дв.",
+                "mileage": 126975
             },
             "options": [
                 {
-                    "option_name": "Климат-контроль"
+                    "option_name": "Противотуманные фары"
                 },
                 {
-                    "option_name": "Кожаный руль"
+                    "option_name": "Аудиосистема"
                 },
                 {
-                    "option_name": "Центральный замок"
+                    "option_name": "Металлик"
                 }
             ]
         }
