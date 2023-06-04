@@ -10,7 +10,7 @@
             "technical_characteristics": {
                 "brand": "Volvo",
                 "model": "XC70",
-                "productionYear": 2007,
+                "production_year": 2007,
                 "body": "body",
                 "mileage": 200000
             },
@@ -36,7 +36,7 @@
             "technical_characteristics": {
                 "brand": "Volvo",
                 "model": "XC70",
-                "productionYear": 2007,
+                "production_year": 2007,
                 "body": "body",
                 "mileage": 200000
             },
@@ -62,7 +62,7 @@
             "technical_characteristics": {
                 "brand": "Volvo",
                 "model": "XC70",
-                "productionYear": 2007,
+                "production_year": 2007,
                 "body": "body",
                 "mileage": 200000
             },
